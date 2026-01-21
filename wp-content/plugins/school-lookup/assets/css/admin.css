@@ -1,0 +1,89 @@
+/* School Lookup Admin Styles */
+
+.school-lookup-admin {
+    max-width: 1200px;
+}
+
+.school-lookup-stats {
+    display: flex;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.school-lookup-stats .stat-box {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 20px;
+    min-width: 200px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+
+.school-lookup-stats .stat-box h3 {
+    margin: 0 0 10px 0;
+    font-size: 14px;
+    font-weight: 600;
+    color: #555;
+    text-transform: uppercase;
+}
+
+.school-lookup-stats .stat-box .stat-number {
+    font-size: 32px;
+    font-weight: 700;
+    color: #2271b1;
+    margin: 0;
+}
+
+.school-lookup-upload-section {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+
+.school-lookup-upload-section h2 {
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.school-lookup-upload-form {
+    margin-top: 20px;
+}
+
+.school-lookup-upload-form .form-table {
+    margin-top: 0;
+}
+
+.school-lookup-upload-form input[type="file"] {
+    padding: 8px;
+    border: 1px solid #8c8f94;
+    border-radius: 4px;
+    background: #fff;
+}
+
+.school-lookup-shortcode-section {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+
+.school-lookup-shortcode-section h2 {
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.school-lookup-shortcode-section code {
+    display: inline-block;
+    background: #f0f0f1;
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-size: 14px;
+    margin: 10px 0;
+}

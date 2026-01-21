@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4f48e001-30e8-4636-b5ed-15d5784bb5ee" name="Leith">
+        <fileTransfer rootFolder="/applications/bczppfwuhm/public_html" accessType="SFTP" host="209.97.184.223" port="22" sshConfigId="baeaaeff-efa6-4be4-9a48-fe5c6d58c835" sshConfig="master_yekbkhyhmq@209.97.184.223:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

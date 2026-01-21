@@ -1,0 +1,128 @@
+Total products in category: 172
+Process start: 2023-11-09 11:27:22
+==================================
+ 
+Product Name: Essential Bread and Patisserie: Online
+SKU: 
+Menu Order: 999999
+Favourite: Array
+No product SKU.
+-------------------------------
+Product Name: The French Kitchen
+SKU: 677
+Menu Order: 240406
+Favourite: Array
+First available date: 06-04-24
+-------------------------------
+Product Name: Let's Cook! More Italian for Teenagers
+SKU: 879
+Menu Order: 999999
+Favourite: Array
+Empty calendar entry.
+-------------------------------
+Product Name: Christmas Entertaining
+SKU: 841
+Menu Order: 0
+Favourite: 1
+Favourite product.
+-------------------------------
+Product Name: Cooking with Confidence Evening Course - Go Green (Vegetarian &amp; Vegan)
+SKU: 915
+Menu Order: 240423
+Favourite: Array
+First available date: 23-04-24
+-------------------------------
+Product Name: Bread Making - Enriched Doughs and Bigas - Weekday
+SKU: 127
+Menu Order: 999999
+Favourite: Array
+Empty calendar entry.
+-------------------------------
+Product Name: Masterclass at Leiths: Meat and Game - Weekday
+SKU: 600
+Menu Order: 999999
+Favourite: Array
+Empty calendar entry.
+-------------------------------
+Product Name: Let's Cook! Easter Baking for Teenagers
+SKU: 162
+Menu Order: 240327
+Favourite: Array
+First available date: 27-03-24
+-------------------------------
+Product Name: Masterclass at Leiths: Meat and Game - Weekend
+SKU: 755
+Menu Order: 999999
+Favourite: Array
+Empty calendar entry.
+-------------------------------
+Product Name: Bread Making - Enriched Doughs and Bigas - Weekend
+SKU: 63
+Menu Order: 240203
+Favourite: Array
+First available date: 03-02-24
+-------------------------------
+Product Name: Cook the Seasons: Winter - Weekend
+SKU: 260
+Menu Order: 999999
+Favourite: Array
+Empty calendar entry.
+-------------------------------
+Product Name: An Evening at Leiths: French Bistro Classics
+SKU: 166
+Menu Order: 240124
+Favourite: Array
+First available date: 24-01-24
+-------------------------------
+Product Name: Chef Skills: Online
+SKU: 
+Menu Order: 999999
+Favourite: Array
+No product SKU.
+-------------------------------
+Product Name: Cooking with Confidence: Online
+SKU: 
+Menu Order: 999999
+Favourite: Array
+No product SKU.
+-------------------------------
+Product Name: Essential Cooking Certificate: Online
+SKU: 
+Menu Order: 999999
+Favourite: Array
+No product SKU.
+-------------------------------
+Product Name: Nutrition in Culinary Practice: Online
+SKU: 
+Menu Order: 999999
+Favourite: Array
+No product SKU.
+-------------------------------
+Product Name: An Introduction to Patisserie: Online
+SKU: 
+Menu Order: 999999
+Favourite: Array
+No product SKU.
+-------------------------------
+Product Name: Spanish Tapas and Wine Tasting
+SKU: 911
+Menu Order: 231209
+Favourite: Array
+First available date: 09-12-23
+-------------------------------
+Product Name: Chef Skills: Evening Course
+SKU: 692
+Menu Order: 240108
+Favourite: Array
+First available date: 08-01-24
+-------------------------------
+Product Name: Let's Cook! Christmas Baking for Teenagers - Weekday
+SKU: 74
+Menu Order: 231218
+Favourite: Array
+First available date: 18-12-23
+-------------------------------
+ 
+================================
+Process end: 2023-11-09 11:27:28
+All done!
