@@ -282,14 +282,14 @@ To successfully upgrade to stripe-php v12, you must either
 
      ```diff
        // if using StripeClient
-     - $stripe = new \Stripe\StripeClient('sk_test_xyz');
+     - $stripe = new \Stripe\StripeClient('sk_test_REDACTED');
      + $stripe = new \Stripe\StripeClient([
-     +   'api_key' => 'sk_test_xyz',
+     +   'api_key' => 'sk_test_REDACTED',
          'stripe_version' => '2020-08-27',
      + ]);
 
        // if using the global client
-       Stripe.apiKey = "sk_test_xyz";
+       Stripe.apiKey = "sk_test_REDACTED";
      + Stripe::setApiVersion('2020-08-27');
      ```
 
@@ -2384,3 +2384,4 @@ Pull requests included in this release:
 -   Add new Transfer resource
 -   Switch from using HTTP Basic auth to Bearer auth. (Note: Stripe will support Basic auth for the indefinite future, but recommends Bearer auth when possible going forward)
 -   Numerous test suite improvements
+
