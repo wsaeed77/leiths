@@ -1,0 +1,398 @@
+@mixin phone {
+  @media screen and (max-width: 480px) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media screen and (min-width: 481px) and (max-width: 1024px) {
+    @content;
+  }
+}
+
+.job-template-default {
+  h1 {
+    font-family: "Libre Baskerville", serif;
+  }
+
+  main.job {
+    padding: 48px 0;
+
+    @include tablet {
+      padding: 32px 0;
+    }
+
+    @include phone {
+      padding: 24px 0;
+    }
+  }
+}
+
+.ll-spacer {
+  display: block;
+  height: 2rem;
+
+  @include phone {
+    height: 1.5rem;
+  }
+}
+
+.wpjb {
+
+  #wpjb-top-search {
+    border: none;
+    box-shadow: none;
+    background: transparent;
+    color: #546e7a;
+    font-size: 13px;
+    padding: 0;
+    clear: both;
+    overflow: hidden;
+    margin: 0 0 1.5rem 0;
+
+    .wpjb-search {
+      display: flex;
+      flex: 1 1 auto;
+      flex-wrap: nowrap;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+    }
+
+    .wpjb-list-search {
+      display: none;
+    }
+
+    .wpjb-input-type-half-left {
+      padding: 0;
+      margin: 0;
+      width: auto;
+    }
+
+    .wpjb-input-type-half-right {
+      padding: 0;
+      margin: 0;
+      width: auto;
+    }
+
+    input[type="text"] {
+      &.daq-multiselect-input {
+        display: none;
+      }
+    }
+
+    .ll-reset-filters {
+      background-color: #f0f3f8;
+      border: none;
+      color: #00a5b2;
+      text-transform: uppercase;
+      font-weight: bold;
+      font-size: .75rem;
+      line-height: 1.5;
+      display: inline-block;
+      padding: .5rem 1.25rem;
+      cursor: pointer;
+      transition: background-color .3s ease-in-out;
+      outline: none;
+
+      &:hover {
+        background-color: #00a5b2;
+        color: #fff;
+      }
+    }
+
+    .daq-multiselect-options {
+      position: relative;
+      background: none;
+      border: none;
+      padding: 0;
+      margin: 0;
+      box-shadow: none;
+      display: block !important;
+      min-height: 0;
+      max-height: none;
+      min-width: 0;
+      overflow: auto;
+      width: auto;
+      z-index: auto;
+
+      ul {
+        border: 2px solid #f0f3f8;
+        border-radius: .33rem;
+        overflow: hidden;
+        display: inline-flex;
+        margin: 0;
+        padding: 0;
+        line-height: 1;
+        height: auto;
+        white-space: nowrap;
+        width: auto;
+      }
+
+      li {
+        margin: 0;
+        padding: 0;
+        height: auto;
+        line-height: 1;
+        border-right: 1px solid #f0f3f8;
+
+        &:last-child {
+          border: none;
+        }
+
+        label {
+          margin: 0;
+          padding: 0;
+          display: inline-block;
+          height: auto;
+          line-height: 1;
+
+          input[type="checkbox"] {
+            width: 0;
+            height: 0;
+            opacity: 0;
+            visibility: hidden;
+            position: absolute;
+            display: none;
+            margin: 0;
+
+            &:checked ~ span {
+              background-color: #00a5b2;
+              color: #fff;
+            }
+          }
+
+          span {
+            background-color: #fff;
+            color: #00a5b2;
+            text-transform: uppercase;
+            font-weight: bold;
+            font-size: .75rem;
+            line-height: 1.5;
+            display: inline-block;
+            padding: .5rem 1.25rem;
+            cursor: pointer;
+            transition: background-color .3s ease-in-out;
+
+            &:hover {
+              background-color: #f0f3f8;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .ll-job-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1.5rem;
+
+    @include tablet {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @include phone {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .ll-single-job {
+    border: 1px solid #f0f3f8;
+    background-color: #fff;
+    border-radius: .5rem;
+    padding: 1.5rem;
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
+    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, .05);
+
+    img:first-child {
+      width: 100%;
+      max-width: 250px;
+      margin-bottom: 1rem;
+      display: block;
+    }
+
+    h3 {
+      margin: 0 0 .5rem 0;
+      font-size: 1.2rem;
+      font-weight: 600;
+      text-transform: none;
+    }
+
+    .ll-job-details {
+      font-size: .85rem;
+      line-height: 1.2;
+      margin: .5rem 0;
+
+      span {
+        display: block;
+        margin: .25rem 0;
+
+        &.ll-end-date {
+          margin: .75rem 0;
+        }
+      }
+
+      strong {
+        font-weight: 600;
+      }
+    }
+
+    .ll-tag-new {
+      background-color: coral;
+      color: #fff;
+      text-transform: uppercase;
+      font-weight: bold;
+      font-size: .75rem;
+      line-height: 1.2;
+      display: inline-block;
+      padding: .25rem .75rem;
+      border-radius: .25rem;
+    }
+
+    .ll-job-tag {
+      background-color: #f0f0f0;
+      color: #606060;
+      font-size: .75rem;
+      line-height: 1.2;
+      display: inline-block;
+      padding: .25rem .75rem;
+      border-radius: .25rem;
+    }
+
+    .ll-flex-v-spacer {
+      flex: 1;
+      min-height: .5rem;
+    }
+
+    a {
+      &.ll-button-apply {
+        display: block;
+        color: #fff;
+        font-size: .85rem;
+        font-weight: 600;
+        background-color: #00a5b2;
+        text-align: center;
+        line-height: 1.2;
+        padding: .5rem 1rem;
+        border-radius: .33rem;
+        text-decoration: none;
+
+        &:hover {
+          background-color: darken(#00a5b2, 5%);
+        }
+      }
+    }
+  }
+
+  .ll-job-page {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    grid-column-gap: 2.5rem;
+    align-items: flex-start;
+    padding-top: 3rem;
+    position: relative;
+
+    @include tablet {
+      grid-template-columns: 1fr;
+    }
+
+    @include phone {
+      grid-template-columns: 1fr;
+    }
+
+    .ll-sticky {
+      position: sticky;
+      top: 4rem;
+
+      @include tablet {
+        position: relative;
+      }
+
+      @include phone {
+        position: relative;
+      }
+    }
+
+    .wpjb-job-apply {
+      margin: 0;
+      padding: 0;
+    }
+
+    .wpjb-form {
+      &.wpjb-form-nolines fieldset {
+        padding: 0;
+
+        &.wpjb-fieldset-apply {
+          border: 1px solid #f0f3f8;
+          background-color: #fff;
+          border-radius: .5rem;
+          padding: 1.5rem;
+          display: flex;
+          flex: 1 1 auto;
+          flex-direction: column;
+          box-shadow: 0 1px 6px 0 rgba(0, 0, 0, .05);
+
+          > div {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            padding: 0;
+            margin: 0 0 1rem 0;
+
+            .wpjb-label {
+              padding-top: 0;
+            }
+          }
+
+          .wpjb-field {
+            width: 100%;
+          }
+        }
+      }
+
+      .wpjb-input-description {
+        line-height: 1.2;
+      }
+    }
+
+    .wpjb-top-header {
+      background: none;
+      margin-bottom: 1.5rem;
+
+      img {
+        max-width: 300px;
+      }
+    }
+  }
+
+  input[type="submit"].wpjb-submit {
+    display: block;
+    color: #fff;
+    font-size: .85rem;
+    font-weight: 600;
+    background-color: #00a5b2;
+    text-align: center;
+    line-height: 1.2;
+    padding: .75rem 1rem;
+    border-radius: .33rem;
+    text-decoration: none;
+    border: none;
+    width: 100%;
+    margin: 1rem 0;
+
+    &:hover {
+      background-color: darken(#00a5b2, 5%);
+    }
+  }
+
+  .wpjb-grid {
+    font-size: .85rem;
+
+    .wpjb-grid-row {
+      padding: .5rem 0;
+    }
+  }
+}

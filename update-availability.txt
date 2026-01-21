@@ -1,0 +1,134 @@
+Total products in category: 21
+Process start: 2024-08-28 08:00:04
+==================================
+ 
+Product Name: Essential Bread and Patisserie Course: Online
+SKU: 
+Menu Order: 999999
+Favourite: 0
+No product SKU.
+-------------------------------
+Product Name: Chef Skills Course: Online
+SKU: 
+Menu Order: 999999
+Favourite: 0
+No product SKU.
+-------------------------------
+Product Name: Cooking with Confidence Course: Online
+SKU: 
+Menu Order: 999999
+Favourite: 0
+No product SKU.
+-------------------------------
+Product Name: Essential Cooking Certificate: Online
+SKU: 
+Menu Order: 999999
+Favourite: 0
+No product SKU.
+-------------------------------
+Product Name: Nutrition in Culinary Practice: Online
+SKU: 
+Menu Order: 999999
+Favourite: 0
+No product SKU.
+-------------------------------
+Product Name: An Introduction to Patisserie Course: Online
+SKU: 
+Menu Order: 999999
+Favourite: Array
+No product SKU.
+-------------------------------
+Product Name: A Taste of the Diploma: Cooking Experience Day
+SKU: 871
+Menu Order: 999999
+Favourite: 0
+Empty calendar entry.
+-------------------------------
+Product Name: Online Chef Skills Two Day Accreditation
+SKU: 694
+Menu Order: 241012
+Favourite: 0
+First available date: 12-10-24
+-------------------------------
+Product Name: Online Essential Bread &amp; Patisserie Two Day Accreditation
+SKU: 852
+Menu Order: 999999
+Favourite: 0
+Empty calendar entry.
+-------------------------------
+Product Name: Online Essential Two Day Accreditation
+SKU: 595
+Menu Order: 240906
+Favourite: 0
+First available date: 06-09-24
+-------------------------------
+Product Name: Online Nutrition in Culinary Practice - One Day Accreditation - Saturday
+SKU: 759
+Menu Order: 241005
+Favourite: 0
+First available date: 05-10-24
+-------------------------------
+Product Name: Essential Cooking Certificate: Evening Course
+SKU: 239
+Menu Order: 240930
+Favourite: 0
+First available date: 30-09-24
+-------------------------------
+Product Name: WSET 1: Award in Wines
+SKU: 488
+Menu Order: 999999
+Favourite: 0
+Empty calendar entry.
+-------------------------------
+Product Name: WSET 2: Award in Wines
+SKU: 896
+Menu Order: 999999
+Favourite: 0
+Empty calendar entry.
+-------------------------------
+Product Name: Foundation Certificate in Food and Wine
+SKU: 124
+Menu Order: 240924
+Favourite: 0
+First available date: 24-09-24
+-------------------------------
+Product Name: Intermediate Certificate in Food and Wine
+SKU: 125
+Menu Order: 250114
+Favourite: 0
+First available date: 14-01-25
+-------------------------------
+Product Name: Advanced Certificate in Food and Wine
+SKU: 126
+Menu Order: 250423
+Favourite: 0
+First available date: 23-04-25
+-------------------------------
+Product Name: International Diploma in Food and Wine
+SKU: 
+Menu Order: 999999
+Favourite: 0
+No product SKU.
+-------------------------------
+Product Name: Three Term Diploma in Food and Wine
+SKU: 204
+Menu Order: 240924
+Favourite: 0
+First available date: 24-09-24
+-------------------------------
+Product Name: Two Term Diploma in Food and Wine
+SKU: 213
+Menu Order: 250114
+Favourite: 0
+First available date: 14-01-25
+-------------------------------
+Product Name: Assessment in Marine Cookery Course
+SKU: 592
+Menu Order: 240909
+Favourite: 0
+First available date: 09-09-24
+-------------------------------
+ 
+================================
+Process end: 2024-08-28 08:00:08
+All done!

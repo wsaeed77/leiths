@@ -1,0 +1,959 @@
+# Translation of Plugins - Slider, Gallery, and Carousel by MetaSlider &#8211; Responsive WordPress Image Slideshows - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - Slider, Gallery, and Carousel by MetaSlider &#8211; Responsive WordPress Image Slideshows - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-13 15:20:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - Slider, Gallery, and Carousel by MetaSlider &#8211; Responsive WordPress Image Slideshows - Stable (latest release)\n"
+
+#: admin/Table.php:336
+msgid "Edit"
+msgstr "Edit"
+
+#: admin/views/pages/dashboard.php:36
+msgid "Search"
+msgstr "Search"
+
+#: admin/Notices.php:339
+msgid "Find out more &rarr;"
+msgstr "Find out more &rarr;"
+
+#: admin/views/pages/dashboard.php:8 admin/assets/dist/js/app.js:2
+msgid "Slideshows"
+msgstr "Slideshows"
+
+#: admin/routes/api.php:882 admin/routes/api.php:1069
+msgid "The field (%s) cannot be empty"
+msgstr "The field (%s) cannot be empty"
+
+#: admin/routes/api.php:878
+msgid "The title cannot be empty."
+msgstr "The title cannot be empty."
+
+#: admin/routes/api.php:514
+msgid "Nothing to import."
+msgstr "Nothing to import."
+
+#: admin/views/pages/parts/ie-warning.php:12
+msgid "Update Internet Explorer"
+msgstr "Update Internet Explorer"
+
+#: admin/views/pages/parts/ie-warning.php:8
+msgid "IE11"
+msgstr "IE11"
+
+#: admin/views/pages/parts/ie-warning.php:8
+msgid "Microsoft Internet Explorer 11"
+msgstr "Microsoft Internet Explorer 11"
+
+#: admin/views/pages/parts/ie-warning.php:8
+msgid "It looks like you are using %s. While MetaSlider does support %s on the frontend of the website where users see your slideshows, some of the tools we provide back here require a modern browser."
+msgstr "It looks like you are using %s. While MetaSlider does support %s on the front end of the website where users see your slideshows, some of the tools we provide back here require a modern browser."
+
+#: admin/views/pages/parts/ie-warning.php:4
+msgid "Browser upgrade required"
+msgstr "Browser upgrade required"
+
+#: admin/views/pages/settings.php:89 admin/assets/dist/js/app.js:2
+msgid "Export"
+msgstr "Export"
+
+#: admin/views/pages/settings.php:74 admin/assets/dist/js/app.js:2
+msgid "Import"
+msgstr "Import"
+
+#: ml-slider.php:1961
+msgid "Add slideshow"
+msgstr "Add slideshow"
+
+#: inc/metaslider.systemcheck.class.php:208
+msgid "Warning:"
+msgstr "Warning:"
+
+#: inc/metaslider.systemcheck.class.php:94
+msgid "this article"
+msgstr "this article"
+
+#: inc/metaslider.systemcheck.class.php:91
+msgid "Your settings might not be saving properly due to a configuration on your server. %s is currently set to %s, but we recommend a setting of 4000. Please see %s for more information. The php.ini file is being loaded from here: %s"
+msgstr "Your settings might not be saving properly due to a configuration on your server. %s is currently set to %s, but we recommend a setting of 4000. Please see %s for more information. The php.ini file is being loaded from here: %s"
+
+#: admin/routes/api.php:769
+msgid "This was not a slideshow, so we cannot update the setting."
+msgstr "This was not a slideshow, so we cannot update the setting."
+
+#: themes/simply-dark/v1.0.0/theme.php:26
+msgid "Next Slide"
+msgstr "Next slide"
+
+#: themes/simply-dark/v1.0.0/theme.php:24
+msgid "Previous Slide"
+msgstr "Previous slide"
+
+#: admin/views/pages/parts/toolbar.php:90
+msgid "Add CSS"
+msgstr "Add CSS"
+
+#: admin/views/pages/upgrade.php:110
+msgid "Add custom CSS"
+msgstr "Add custom CSS"
+
+#: admin/views/pages/parts/toolbar.php:81
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: admin/views/pages/parts/toolbar.php:69
+msgid "Duplicate this slideshow"
+msgstr "Duplicate this slideshow"
+
+#: admin/views/pages/parts/toolbar.php:64
+msgid "New"
+msgstr "New"
+
+#: admin/views/pages/parts/toolbar.php:35
+msgid "Save & open the preview"
+msgstr "Save and open the preview"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:788
+msgid "Opacity of title and navigation, between 0 and 1."
+msgstr "Opacity of title and navigation, between 0 and 1."
+
+#: admin/views/pages/parts/slider-settings-legacy.php:211
+#: admin/views/pages/parts/slider-settings.php:147
+msgid "100% width"
+msgstr "100% width"
+
+#: admin/slideshows/Themes.php:277
+msgid "We removed your selected theme as it could not be found. Was the folder deleted?"
+msgstr "We removed your selected theme as it could not be found. Was the folder deleted?"
+
+#: admin/routes/api.php:556
+msgid "This was not a slideshow, so we cannot delete it."
+msgstr "This was not a slideshow, so we cannot delete it."
+
+#: admin/Pages.php:133
+msgid "Please confirm that you would like to delete this slideshow."
+msgstr "Please confirm that you would like to delete this slideshow."
+
+#: admin/views/pages/parts/toolbar.php:100
+msgid "Save slideshow"
+msgstr "Save slideshow"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:627
+#: admin/views/pages/parts/slider-settings-legacy.php:647
+#: admin/views/pages/parts/slider-settings-legacy.php:776
+#: admin/views/pages/parts/slider-settings-legacy.php:808
+#: admin/views/pages/parts/slider-settings.php:556
+#: admin/views/pages/parts/slider-settings.php:576
+msgctxt "Short for milliseconds"
+msgid "ms"
+msgstr "ms"
+
+#: admin/Notices.php:338
+msgctxt "Keep the plugin name \"MetaSlider\" when possible"
+msgid "Review MetaSlider &rarr;"
+msgstr "Review MetaSlider &rarr;"
+
+#: themes/manifest-legacy.php:207
+msgid "The Nivo Dark theme included here for legacy purposes. Note: only works with Nivo Slider"
+msgstr "The Nivo Dark theme included here for legacy purposes. Note: only works with Nivo Slider"
+
+#: themes/manifest-legacy.php:199
+msgid "The Nivo Bar theme included here for legacy purposes. Note: only works with Nivo Slider"
+msgstr "The Nivo Bar theme included here for legacy purposes. Note: only works with Nivo Slider"
+
+#: themes/manifest-legacy.php:191
+msgid "The Nivo Light theme included here for legacy purposes. Note: only works with Nivo Slider"
+msgstr "The Nivo Light theme included here for legacy purposes. Note: only works with Nivo Slider"
+
+#: themes/manifest-legacy.php:173 themes/manifest.php:173
+msgid "A bold and clear design that works well on a darker images."
+msgstr "A bold and clear design that works well on a darker images."
+
+#: themes/manifest-legacy.php:164 themes/manifest.php:164
+msgid "This theme has a unique design that gives it a sophisticated look."
+msgstr "This theme has a unique design that gives it a sophisticated look."
+
+#: themes/manifest-legacy.php:133 themes/manifest.php:133
+msgid "This theme has a special additional functionality that uses image titles as the slide navigation. "
+msgstr "This theme has a special additional functionality that uses image titles as the slide navigation. "
+
+#: themes/manifest-legacy.php:124 themes/manifest.php:124
+msgid "A simple theme that neatly blends into any existing website."
+msgstr "A simple theme that neatly blends into any existing website."
+
+#: themes/manifest-legacy.php:115 themes/manifest.php:115
+msgid "A futuristic and linear design that goes will with a dark background."
+msgstr "A futuristic and linear design that goes will with a dark background."
+
+#: themes/manifest-legacy.php:106 themes/manifest.php:106
+msgid "This theme places the controls vertically for a unique look."
+msgstr "This theme places the controls vertically for a unique look."
+
+#: themes/manifest-legacy.php:65 themes/manifest.php:65
+msgid "A fun, circular design to brighten up your site. This theme works well with dark images"
+msgstr "A fun, circular design to brighten up your site. This theme works well with dark images"
+
+#: themes/manifest-legacy.php:56 themes/manifest.php:56
+msgid "A clean, subtle theme that features block arrows and bold design."
+msgstr "A clean, subtle theme that features block arrows and bold design."
+
+#: themes/manifest-legacy.php:47 themes/manifest.php:47
+msgid "A simple, slick square design that looks good on darker images."
+msgstr "A simple, slick square design that looks good on darker images."
+
+#: themes/manifest-legacy.php:74 themes/manifest.php:74
+msgid "A minimalistic, no-frills design that was built to blend in with most themes."
+msgstr "A minimalistic, no-frills design that was built to blend in with most themes."
+
+#: inc/slide/metaslide.image.class.php:540
+msgid "Schedule"
+msgstr "Schedule"
+
+#: admin/views/pages/upgrade.php:126
+msgid "Toggle your slide's visibility"
+msgstr "Toggle your slide's visibility"
+
+#: admin/views/pages/upgrade.php:119
+msgid "Add a start/end date to individual slides."
+msgstr "Add a start/end date to individual slides."
+
+#: admin/views/pages/upgrade.php:118
+msgid "Schedule your slides"
+msgstr "Schedule your slides"
+
+#: admin/slideshows/Themes.php:60
+msgid "No themes found."
+msgstr "No themes found."
+
+#: admin/slideshows/Image.php:145
+msgid "We could not find any images to import."
+msgstr "We could not find any images to import."
+
+#: admin/routes/api.php:427 admin/routes/api.php:549
+msgid "This slideshow is no longer available."
+msgstr "This slideshow is no longer available."
+
+#: admin/routes/api.php:419
+msgid "The request format was not valid."
+msgstr "The request format was not valid."
+
+#: admin/views/pages/parts/slider-settings-legacy.php:551
+#: admin/views/pages/parts/slider-settings.php:480
+msgid "Fade in"
+msgstr "Fade in"
+
+#: admin/views/slides/tabs/seo.php:39
+msgid "Use the image alt text"
+msgstr "Use the image alt text"
+
+#: admin/views/slides/tabs/seo.php:37
+msgid "Enable this to inherit the image alt text"
+msgstr "Enable this to inherit the image alt text"
+
+#: admin/views/slides/tabs/seo.php:13
+msgid "Use the image title"
+msgstr "Use the image title"
+
+#: admin/views/slides/tabs/seo.php:11
+msgid "Enable this to inherit the image title"
+msgstr "Enable this to inherit the image title"
+
+#: admin/views/notices/header-notice.php:21
+msgid "Dismiss"
+msgstr "Dismiss"
+
+#: admin/Pages.php:138
+msgid "Item was copied to your clipboard"
+msgstr "Item was copied to your clipboard"
+
+#: admin/Pages.php:137 admin/assets/dist/js/app.js:2
+#: admin/assets/js/app/globals.js:105
+msgid "Success"
+msgstr "Success"
+
+#: ml-slider.php:2366
+msgid "Leave a review"
+msgstr "Leave a review"
+
+#: ml-slider.php:2347
+msgid "Premium Support"
+msgstr "Premium Support"
+
+#: ml-slider.php:2357
+msgid "Support"
+msgstr "Support"
+
+#: admin/Table.php:59 admin/Table.php:87 admin/Table.php:337
+msgid "Trash"
+msgstr "Bin"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:991
+#: admin/views/pages/parts/slider-settings.php:779
+msgid "View trashed slides"
+msgstr "View binned slides"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:185
+msgid "Filmstrip"
+msgstr "Filmstrip"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:181
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: admin/Table.php:69 admin/views/pages/parts/toolbar.php:44
+#: admin/assets/dist/js/app.js:2
+msgid "Preview"
+msgstr "Preview"
+
+#: admin/views/pages/parts/toolbar.php:25
+msgid "Add a new slide"
+msgstr "Add a new slide"
+
+#: ml-slider.php:1806
+msgid "Trashed Slides"
+msgstr "Binned Slides"
+
+#: admin/slideshows/Settings.php:59
+msgid "New Slideshow"
+msgstr "New Slideshow"
+
+#: ml-slider.php:984
+msgid "The slide was successfully trashed"
+msgstr "The slide was successfully binned"
+
+#: ml-slider.php:925
+msgid "The attempt to restore the slide failed."
+msgstr "The attempt to restore the slide failed."
+
+#: ml-slider.php:902
+msgid "The slide was successfully restored"
+msgstr "The slide was successfully restored"
+
+#: ml-slider.php:731
+msgid "Add to slideshow"
+msgstr "Add to slideshow"
+
+#: admin/slideshows/Settings.php:85 inc/slider/metaslider.class.php:143
+msgid "Previous"
+msgstr "Previous"
+
+#: inc/slide/metaslide.class.php:428 inc/slide/metaslide.class.php:683
+#: inc/slide/metaslide.class.php:684
+msgid "Update slide image"
+msgstr "Update slide image"
+
+#: admin/Table.php:83 admin/Table.php:323 inc/slide/metaslide.class.php:416
+msgid "Delete Permanently"
+msgstr "Delete Permanently"
+
+#: admin/Table.php:82 admin/Table.php:322 inc/slide/metaslide.class.php:406
+msgid "Restore"
+msgstr "Restore"
+
+#: inc/slide/metaslide.class.php:308
+msgid "There was an error while updating the database. Please try again."
+msgstr "There was an error while updating the database. Please try again."
+
+#: inc/slide/metaslide.class.php:127
+msgid "There was an error updating the image. Please try again"
+msgstr "There was an error updating the image. Please try again"
+
+#: inc/slide/metaslide.class.php:117
+msgid "The image was successfully updated."
+msgstr "The image was successfully updated."
+
+#: inc/slide/metaslide.class.php:94
+msgid "The requested image does not exist. Please try again."
+msgstr "The requested image does not exist. Please try again."
+
+#: admin/views/pages/upgrade.php:134
+msgid "Premium support"
+msgstr "Premium support"
+
+#: admin/views/pages/upgrade.php:103
+msgid "Easily build slides based on your WordPress posts."
+msgstr "Easily build slides based on your WordPress posts."
+
+#: admin/views/pages/upgrade.php:95
+msgid "Add layers to your slides with over 50 available transition effects."
+msgstr "Add layers to your slides with over 50 available transition effects."
+
+#: admin/views/pages/upgrade.php:94
+msgid "Add slide layers"
+msgstr "Add slide layers"
+
+#: admin/views/pages/upgrade.php:54
+msgid "Thumbnail navigation"
+msgstr "Thumbnail navigation"
+
+#: admin/views/pages/upgrade.php:46
+msgid "Intelligent image cropping"
+msgstr "Intelligent image cropping"
+
+#: admin/views/pages/upgrade.php:38
+msgid "Regular updates"
+msgstr "Regular updates"
+
+#: admin/views/pages/upgrade.php:31
+msgid "Create and manage as many slideshows as you need."
+msgstr "Create and manage as many slideshows as you need."
+
+#: admin/views/pages/upgrade.php:30
+msgid "Create unlimited slideshows"
+msgstr "Create unlimited slideshows"
+
+#: admin/views/pages/upgrade.php:26 admin/views/pages/upgrade.php:145
+#: admin/views/slides/tabs/schedule.php:10 admin/assets/dist/js/app.js:2
+msgid "Upgrade now"
+msgstr "Upgrade now"
+
+#: admin/views/pages/upgrade.php:25 admin/views/pages/upgrade.php:144
+msgid "Installed"
+msgstr "Installed"
+
+#: admin/views/pages/upgrade.php:13
+msgid "Comparison Chart"
+msgstr "Comparison Chart"
+
+#: admin/views/notices/header-notice.php:8
+msgid "Logo"
+msgstr "Logo"
+
+#: admin/slideshows/Settings.php:86 inc/slider/metaslider.class.php:144
+msgid "Next"
+msgstr "Next"
+
+#: admin/Pages.php:139
+msgid "Press to undo"
+msgstr "Press to undo"
+
+#: admin/Pages.php:136
+msgid "Slide deleted"
+msgstr "Slide deleted"
+
+#: admin/Pages.php:135
+msgid "Slide restored"
+msgstr "Slide restored"
+
+#: admin/Pages.php:134
+msgid "Undo"
+msgstr "Undo"
+
+#: admin/Notices.php:486
+msgid "The attempt to update the option failed."
+msgstr "The attempt to update the option failed."
+
+#: admin/Notices.php:461
+msgid "The requested data does not exist."
+msgstr "The requested data does not exist."
+
+#: admin/Notices.php:395
+msgid "The option was successfully updated"
+msgstr "The option was successfully updated"
+
+#: admin/Notices.php:382
+msgid "This item does not exist. Please refresh the page and try again."
+msgstr "This item does not exist. Please refresh the page and try again."
+
+#: admin/Notices.php:358 admin/support/Analytics.php:66
+#: inc/slide/metaslide.class.php:141 inc/slide/metaslide.image.class.php:124
+#: inc/slide/metaslide.image.class.php:228
+#: inc/slide/metaslide.image.class.php:349 ml-slider.php:870 ml-slider.php:952
+#: ml-slider.php:1064 ml-slider.php:2509 ml-slider.php:2550
+msgid "The security check failed. Please refresh the page and try again."
+msgstr "The security check failed. Please refresh the page and try again."
+
+#: admin/Notices.php:344
+msgid "Read more"
+msgstr "Read more"
+
+#: admin/Notices.php:317
+msgid "weeks"
+msgstr "weeks"
+
+#: admin/Notices.php:127
+msgid "Can you translate? Want to improve MetaSlider for speakers of your language?"
+msgstr "Can you translate? Want to improve MetaSlider for speakers of your language?"
+
+#: admin/Notices.php:116
+msgid "Increase your revenue and conversion with video slides and many more MetaSlider Pro features"
+msgstr "Increase your revenue and conversion with video slides and many more MetaSlider Pro features"
+
+#: ml-slider.php:774
+msgid "Layer Slide"
+msgstr "Layer Slide"
+
+#: ml-slider.php:773
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ml-slider.php:772
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ml-slider.php:771
+msgid "Post Feed"
+msgstr "Post Feed"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: ml-slider.php
+msgid "https://www.metaslider.com"
+msgstr "https://www.metaslider.com"
+
+#: ml-slider.php:2007
+msgid "Insert slideshow"
+msgstr "Insert slideshow"
+
+#: ml-slider.php:1997
+msgid "Choose slideshow"
+msgstr "Choose slideshow"
+
+#: admin/Table.php:72 admin/views/pages/parts/slider-settings-legacy.php:946
+#: admin/views/pages/parts/slider-settings.php:747
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:925
+#: admin/views/pages/parts/slider-settings.php:732
+msgid "Delay adding the flexslider class to the slideshow."
+msgstr "Delay adding the flexslider class to the slideshow."
+
+#: admin/views/pages/parts/slider-settings-legacy.php:920
+#: admin/views/pages/parts/slider-settings.php:727
+msgid "No conflict mode"
+msgstr "No conflict mode"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:907
+#: admin/views/pages/parts/slider-settings.php:714
+msgid "Print JS"
+msgstr "Print JS"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:894
+#: admin/views/pages/parts/slider-settings.php:701
+msgid "Print CSS"
+msgstr "Print CSS"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:881
+#: admin/views/pages/parts/slider-settings.php:688
+msgid "CSS classes"
+msgstr "CSS classes"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:804
+msgid "Set the fade in speed of the caption."
+msgstr "Set the fade in speed of the caption."
+
+#: admin/views/pages/parts/slider-settings-legacy.php:802
+msgid "Caption speed"
+msgstr "Caption speed"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:786
+msgid "Opacity"
+msgstr "Opacity"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:772
+msgid "Delay between squares in ms."
+msgstr "Delay between squares in ms."
+
+#: admin/views/pages/parts/slider-settings-legacy.php:770
+msgid "Square delay"
+msgstr "Square delay"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:754
+msgid "Set the text for the \"next\" direction item."
+msgstr "Set the text for the 'next' direction item."
+
+#: admin/views/pages/parts/slider-settings-legacy.php:752
+msgid "Next text"
+msgstr "Next text"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:741
+msgid "Set the text for the \"previous\" direction item."
+msgstr "Set the text for the 'previous' direction item."
+
+#: admin/views/pages/parts/slider-settings-legacy.php:739
+msgid "Previous text"
+msgstr "Previous text"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:727
+#: admin/views/pages/parts/slider-settings.php:612
+msgid "Easing"
+msgstr "Easing"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:716
+#: admin/views/pages/parts/slider-settings.php:601
+msgid "Vertical"
+msgstr "Vertical"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:709
+#: admin/views/pages/parts/slider-settings.php:594
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:700
+#: admin/views/pages/parts/slider-settings.php:585
+msgid "Slide direction"
+msgstr "Slide direction"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:673
+#: admin/views/pages/parts/slider-settings-legacy.php:678
+#: admin/views/pages/parts/slider-settings-legacy.php:689
+#: admin/views/pages/parts/slider-settings-legacy.php:694
+msgid "Number of squares"
+msgstr "Number of squares"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:661
+#: admin/views/pages/parts/slider-settings-legacy.php:663
+msgid "Number of slices"
+msgstr "Number of slices"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:623
+#: admin/views/pages/parts/slider-settings.php:552
+msgid "How long to display each slide, in milliseconds."
+msgstr "How long to display each slide, in milliseconds."
+
+#: admin/views/pages/parts/slider-settings-legacy.php:621
+#: admin/views/pages/parts/slider-settings.php:550
+msgid "Slide delay"
+msgstr "Slide delay"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:595
+#: admin/views/pages/parts/slider-settings.php:524
+msgid "Reverse the animation direction."
+msgstr "Reverse the animation direction."
+
+#: admin/views/pages/parts/slider-settings-legacy.php:590
+#: admin/views/pages/parts/slider-settings.php:519
+msgid "Reverse"
+msgstr "Reverse"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:582
+#: admin/views/pages/parts/slider-settings.php:511
+msgid "Pause the slideshow when hovering over slider, then resume when no longer hovering."
+msgstr "Pause the slideshow when hovering over slider, then resume when no longer hovering."
+
+#: admin/views/pages/parts/slider-settings-legacy.php:577
+#: admin/views/pages/parts/slider-settings.php:506
+msgid "Hover pause"
+msgstr "Hover pause"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:569
+#: admin/views/pages/parts/slider-settings.php:498
+msgid "Randomise the order of the slides."
+msgstr "Randomise the order of the slides."
+
+#: admin/views/pages/parts/slider-settings-legacy.php:542
+#: admin/views/pages/parts/slider-settings.php:471
+msgid "Pixel margin between slides in carousel."
+msgstr "Pixel margin between slides in carousel."
+
+#: admin/views/pages/parts/slider-settings-legacy.php:539
+#: admin/views/pages/parts/slider-settings.php:468
+msgid "Carousel margin"
+msgstr "Carousel margin"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:500
+#: admin/views/pages/parts/slider-settings.php:429
+msgid "Carousel mode"
+msgstr "Carousel mode"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:479
+#: admin/views/pages/parts/slider-settings.php:408
+msgid "Smart Crop ensures your responsive slides are cropped to a ratio that results in a consistent slideshow size."
+msgstr "Smart Crop ensures your responsive slides are cropped to a ratio that results in a consistent slideshow size."
+
+#: admin/views/pages/parts/slider-settings-legacy.php:472
+#: admin/views/pages/parts/slider-settings.php:401
+msgid "Disabled (Smart Pad)"
+msgstr "Disabled (Smart Pad)"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:465
+#: admin/views/pages/parts/slider-settings.php:394
+msgid "Disabled"
+msgstr "Disabled"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:458
+#: admin/views/pages/parts/slider-settings.php:387
+msgid "Standard"
+msgstr "Standard"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:451
+#: admin/views/pages/parts/slider-settings.php:380
+msgid "Smart Crop"
+msgstr "Smart Crop"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:446
+#: admin/views/pages/parts/slider-settings.php:375
+msgid "Image Crop"
+msgstr "Image Crop"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:412
+#: admin/views/pages/parts/slider-settings.php:341
+msgid "Transition between slides automatically."
+msgstr "Transition between slides automatically."
+
+#: admin/views/pages/parts/slider-settings-legacy.php:407
+#: admin/views/pages/parts/slider-settings.php:336
+msgid "Auto play"
+msgstr "Auto play"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:394
+#: admin/views/pages/parts/slider-settings.php:323
+msgid "Center align"
+msgstr "Centre align"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:216
+#: admin/views/pages/parts/slider-settings.php:152
+msgid "Stretch the slideshow output to fill it's parent container."
+msgstr "Stretch the slideshow output to fill it's parent container."
+
+#: admin/Table.php:70 admin/assets/dist/js/app.js:2
+msgid "Title"
+msgstr "Title"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:178
+#: admin/views/pages/parts/slider-settings.php:114
+msgid "Dots"
+msgstr "Dots"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:175
+#: admin/views/pages/parts/slider-settings.php:111
+msgid "Hidden"
+msgstr "Hidden"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:166
+#: admin/views/pages/parts/slider-settings.php:102
+msgid "Navigation"
+msgstr "Navigation"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:152
+#: admin/views/pages/parts/slider-settings.php:88
+msgid "Show the Previous / Next arrows."
+msgstr "Show the previous/next arrows."
+
+#: admin/views/pages/parts/slider-settings-legacy.php:147
+#: admin/views/pages/parts/slider-settings.php:83
+msgid "Arrows"
+msgstr "Arrows"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:140
+#: admin/views/pages/parts/slider-settings.php:76
+msgid "Slide"
+msgstr "Slide"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:136
+msgid "Box Rain Grow Reverse"
+msgstr "Box Rain Grow Reverse"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:128
+msgid "Box Rain Reverse"
+msgstr "Box Rain Reverse"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:124
+msgid "Box Rain"
+msgstr "Box Rain"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:120
+msgid "Box Random"
+msgstr "Box Random"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:104
+#: admin/views/pages/parts/slider-settings.php:72
+msgid "Fade"
+msgstr "Fade"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:108
+msgid "Fold"
+msgstr "Fold"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:88
+msgid "Slice Up"
+msgstr "Slice Up"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:80
+msgid "Straight"
+msgstr "Straight"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:76
+msgid "Rain"
+msgstr "Rain"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:72
+msgid "Swirl"
+msgstr "Swirl"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:68
+#: admin/views/pages/parts/slider-settings-legacy.php:564
+#: admin/views/pages/parts/slider-settings.php:493
+msgid "Random"
+msgstr "Random"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:45
+#: admin/views/pages/parts/slider-settings.php:49
+msgid "Slideshow height"
+msgstr "Slideshow height"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:43
+#: admin/views/pages/parts/slider-settings-legacy.php:692
+#: admin/views/pages/parts/slider-settings.php:47
+msgid "Height"
+msgstr "Height"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:33
+#: admin/views/pages/parts/slider-settings-legacy.php:46
+#: admin/views/pages/parts/slider-settings-legacy.php:546
+#: admin/views/pages/parts/slider-settings.php:37
+#: admin/views/pages/parts/slider-settings.php:50
+#: admin/views/pages/parts/slider-settings.php:475
+msgid "px"
+msgstr "px"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:32
+#: admin/views/pages/parts/slider-settings.php:36
+#: admin/assets/js/gutenberg/components/block-edit.js:57
+#: admin/assets/js/gutenberg/components/block-edit.js:82
+msgid "Slideshow width"
+msgstr "Slideshow width"
+
+#: admin/views/pages/parts/slider-settings-legacy.php:30
+#: admin/views/pages/parts/slider-settings-legacy.php:676
+#: admin/views/pages/parts/slider-settings.php:34
+msgid "Width"
+msgstr "Width"
+
+#: admin/views/pages/parts/toolbar.php:114 admin/assets/dist/js/app.js:2
+msgid "Save"
+msgstr "Save"
+
+#: admin/views/pages/settings.php:42
+msgid "Settings"
+msgstr "Settings"
+
+#: admin/views/pages/parts/toolbar.php:29
+msgid "Add Slide"
+msgstr "Add Slide"
+
+#: admin/views/pages/parts/toolbar.php:60
+msgid "Add a new slideshow"
+msgstr "Add a new slideshow"
+
+#: ml-slider.php:730
+msgid "Image"
+msgstr "Image"
+
+#: admin/Pages.php:151
+msgid "Caution: This setting is for advanced developers only. If you're unsure, leave it checked."
+msgstr "Caution: This setting is for advanced developers only. If you're unsure, leave it checked."
+
+#: admin/Pages.php:141
+msgid "Select replacement image"
+msgstr "Select replacement image"
+
+#: ml-slider.php:2362
+msgid "Documentation"
+msgstr "Documentation"
+
+#: inc/slide/metaslide.image.class.php:528
+msgid "Crop"
+msgstr "Crop"
+
+#: admin/views/slides/tabs/crop.php:18
+msgid "Bottom Right"
+msgstr "Bottom Right"
+
+#: admin/views/slides/tabs/crop.php:17
+msgid "Bottom Center"
+msgstr "Bottom Centre"
+
+#: admin/views/slides/tabs/crop.php:16
+msgid "Bottom Left"
+msgstr "Bottom Left"
+
+#: admin/views/slides/tabs/crop.php:15
+msgid "Center Right"
+msgstr "Centre Right"
+
+#: admin/views/slides/tabs/crop.php:14
+msgid "Center Center"
+msgstr "Centre Centre"
+
+#: admin/views/slides/tabs/crop.php:13
+msgid "Center Left"
+msgstr "Centre Left"
+
+#: admin/views/slides/tabs/crop.php:12
+msgid "Top Right"
+msgstr "Top Right"
+
+#: admin/views/slides/tabs/crop.php:11
+msgid "Top Center"
+msgstr "Top Centre"
+
+#: admin/views/slides/tabs/crop.php:10
+msgid "Top Left"
+msgstr "Top Left"
+
+#: admin/views/slides/tabs/crop.php:6
+msgid "Crop Position"
+msgstr "Crop Position"
+
+#: inc/slide/metaslide.image.class.php:495
+msgid "SEO"
+msgstr "SEO"
+
+#: inc/slide/metaslide.image.class.php:487
+msgid "General"
+msgstr "General"
+
+#: admin/views/slides/tabs/seo.php:33
+msgid "Image Alt Text"
+msgstr "Image Alt Text"
+
+#: admin/views/slides/tabs/seo.php:7
+msgid "Image Title Text"
+msgstr "Image Title Text"
+
+#: inc/slide/metaslide.image.class.php:472
+msgid "Warning: The image data does not exist. Please re-upload the image."
+msgstr "Warning: The image data does not exist. Please re-upload the image."
+
+#: admin/Pages.php:132
+msgid "New Window"
+msgstr "New Window"
+
+#: admin/Pages.php:130
+msgid "URL"
+msgstr "URL"
+
+#: admin/Pages.php:131 admin/assets/dist/js/app.js:2
+msgid "Caption"
+msgstr "Caption"
+
+#: inc/slide/metaslide.image.class.php:390
+msgid "Image Slide"
+msgstr "Image Slide"
+
+#: inc/metaslider.widget.class.php:125 ml-slider.php:2012
+#: admin/assets/dist/js/app.js:2
+msgid "No slideshows found"
+msgstr "No slideshows found"
+
+#: inc/metaslider.widget.class.php:115
+msgid "Select Slider:"
+msgstr "Select Slider:"
+
+#: inc/metaslider.widget.class.php:112
+msgid "Title:"
+msgstr "Title:"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: ml-slider.php ml-slider.php:576
+msgid "MetaSlider"
+msgstr "MetaSlider"

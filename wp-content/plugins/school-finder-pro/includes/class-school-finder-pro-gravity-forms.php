@@ -156,16 +156,19 @@ class GF_Field_School_Finder extends GF_Field {
     }
     
     public function get_form_inline_script_on_page_render($form) {
-        // Enqueue scripts if not already enqueued
-        if (!wp_script_is('school-finder-pro-frontend', 'enqueued')) {
+        // CSS and JS are already enqueued by School_Finder_Pro_Frontend class
+        // Just ensure they're enqueued if somehow they weren't
+        if (!wp_style_is('school-finder-pro-frontend', 'enqueued')) {
             wp_enqueue_style(
                 'school-finder-pro-frontend',
                 SCHOOL_FINDER_PRO_PLUGIN_URL . 'assets/css/frontend.css',
-                array('gform_theme_framework', 'gform_theme_foundation'),
+                array(),
                 SCHOOL_FINDER_PRO_VERSION,
                 'all'
             );
-            
+        }
+        
+        if (!wp_script_is('school-finder-pro-frontend', 'enqueued')) {
             wp_enqueue_script(
                 'school-finder-pro-frontend',
                 SCHOOL_FINDER_PRO_PLUGIN_URL . 'assets/js/frontend.js',
@@ -343,28 +346,15 @@ class GF_Field_School_Finder extends GF_Field {
                         return text.replace(/[&<>\"']/g, function(m) { return map[m]; });
                     },
                     applySpacing: function() {
-                        // Apply margin-top inline to override Gravity Forms reset
+                        // Apply styles inline to override Gravity Forms reset
                         $('.ginput_container_school_finder').each(function() {
                             var \$container = $(this);
                             if (!\$container.attr('data-spacing-applied')) {
                                 \$container.css({
-                                    'margin-top': '12px',
                                     'position': 'relative',
                                     'display': 'block'
                                 });
                                 \$container.attr('data-spacing-applied', 'true');
-                            }
-                        });
-                        
-                        // Apply margin-bottom to labels
-                        $('.gfield--type-school_finder .gfield_label').each(function() {
-                            var \$label = $(this);
-                            if (!\$label.attr('data-spacing-applied')) {
-                                \$label.css({
-                                    'margin-bottom': '12px',
-                                    'display': 'block'
-                                });
-                                \$label.attr('data-spacing-applied', 'true');
                             }
                         });
                     }
@@ -396,7 +386,26 @@ class GF_Field_School_Finder_Register {
             GF_Fields::register(new GF_Field_School_Finder());
         }
     }
+    
+    /**
+     * Ensure CSS is enqueued - fallback method
+     */
+    public static function enqueue_styles() {
+        if (!wp_style_is('school-finder-pro-frontend', 'enqueued')) {
+            wp_enqueue_style(
+                'school-finder-pro-frontend',
+                SCHOOL_FINDER_PRO_PLUGIN_URL . 'assets/css/frontend.css',
+                array(),
+                SCHOOL_FINDER_PRO_VERSION,
+                'all'
+            );
+        }
+    }
 }
 
 // Register on Gravity Forms load
 add_action('gform_loaded', array('GF_Field_School_Finder_Register', 'register'), 5);
+
+// Ensure CSS is enqueued when forms are rendered - fallback
+add_action('wp_enqueue_scripts', array('GF_Field_School_Finder_Register', 'enqueue_styles'), 15);
+add_action('gform_enqueue_scripts', array('GF_Field_School_Finder_Register', 'enqueue_styles'), 10);

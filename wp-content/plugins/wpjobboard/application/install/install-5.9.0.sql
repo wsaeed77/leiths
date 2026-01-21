@@ -1,0 +1,2 @@
+ALTER TABLE `{$wpdb->prefix}wpjb_import` CHANGE `keyword` `keyword` text COLLATE 'utf8mb4_unicode_520_ci' NOT NULL AFTER `engine`; --
+ALTER TABLE `{$wpdb->prefix}wpjb_import` ADD `logs` text COLLATE 'utf8_unicode_520_ci' NOT NULL; --

@@ -1,0 +1,8961 @@
+[30-Jan-2024 12:01:05 UTC] PHP Warning:  file_get_contents(https://leiths.bookinglive.com/jsonfeed/productavailability/929): failed to open stream: HTTP request failed! HTTP/1.1 504 Gateway Time-out
+ in /home/1041599.cloudwaysapps.com/xssbjyghhm/public_html/wp-content/themes/hello-elementor/update-availability.php on line 41
+[30-Jan-2024 12:03:06 UTC] PHP Warning:  file_get_contents(https://leiths.bookinglive.com/jsonfeed/productavailability/879): failed to open stream: HTTP request failed! in /home/1041599.cloudwaysapps.com/xssbjyghhm/public_html/wp-content/themes/hello-elementor/update-availability.php on line 41
+[30-Jan-2024 12:04:30 UTC] PHP Warning:  file_get_contents(https://leiths.bookinglive.com/jsonfeed/productavailability/915): failed to open stream: HTTP request failed! in /home/1041599.cloudwaysapps.com/xssbjyghhm/public_html/wp-content/themes/hello-elementor/update-availability.php on line 41
+[30-Jan-2024 12:06:02 UTC] PHP Warning:  file_get_contents(https://leiths.bookinglive.com/jsonfeed/productavailability/911): failed to open stream: HTTP request failed! in /home/1041599.cloudwaysapps.com/xssbjyghhm/public_html/wp-content/themes/hello-elementor/update-availability.php on line 41
+[04-Apr-2024 12:00:44 UTC] PHP Warning:  require_once(/home/.code/redis-cache-pro/src/Metrics/Measurement.php): failed to open stream: No such file or directory in /home/.code/redis-cache-pro/bootstrap.php on line 7
+[04-Apr-2024 12:00:44 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/.code/redis-cache-pro/src/Metrics/Measurement.php' (include_path='.:/usr/share/php') in /home/.code/redis-cache-pro/bootstrap.php on line 7
+[21-Jun-2024 12:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[21-Jun-2024 12:00:05 UTC] No categories found or error occurred.
+[21-Jun-2024 16:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[21-Jun-2024 16:00:05 UTC] No categories found or error occurred.
+[21-Jun-2024 20:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[21-Jun-2024 20:00:05 UTC] No categories found or error occurred.
+[22-Jun-2024 00:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Jun-2024 00:00:05 UTC] No categories found or error occurred.
+[22-Jun-2024 04:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Jun-2024 04:00:03 UTC] No categories found or error occurred.
+[22-Jun-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Jun-2024 08:00:04 UTC] No categories found or error occurred.
+[22-Jun-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Jun-2024 12:00:04 UTC] No categories found or error occurred.
+[22-Jun-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Jun-2024 16:00:04 UTC] No categories found or error occurred.
+[22-Jun-2024 20:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Jun-2024 20:00:05 UTC] No categories found or error occurred.
+[23-Jun-2024 00:00:10 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Jun-2024 00:00:10 UTC] No categories found or error occurred.
+[23-Jun-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Jun-2024 04:00:04 UTC] No categories found or error occurred.
+[23-Jun-2024 08:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Jun-2024 08:00:03 UTC] No categories found or error occurred.
+[23-Jun-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Jun-2024 12:00:04 UTC] No categories found or error occurred.
+[23-Jun-2024 16:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Jun-2024 16:00:03 UTC] No categories found or error occurred.
+[23-Jun-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Jun-2024 20:00:04 UTC] No categories found or error occurred.
+[24-Jun-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Jun-2024 00:00:06 UTC] No categories found or error occurred.
+[24-Jun-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Jun-2024 04:00:04 UTC] No categories found or error occurred.
+[24-Jun-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Jun-2024 08:00:04 UTC] No categories found or error occurred.
+[24-Jun-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Jun-2024 12:00:04 UTC] No categories found or error occurred.
+[24-Jun-2024 16:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Jun-2024 16:00:03 UTC] No categories found or error occurred.
+[24-Jun-2024 20:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Jun-2024 20:00:03 UTC] No categories found or error occurred.
+[25-Jun-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Jun-2024 00:00:06 UTC] No categories found or error occurred.
+[25-Jun-2024 04:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Jun-2024 04:00:03 UTC] No categories found or error occurred.
+[25-Jun-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Jun-2024 08:00:04 UTC] No categories found or error occurred.
+[25-Jun-2024 12:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Jun-2024 12:00:05 UTC] No categories found or error occurred.
+[25-Jun-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Jun-2024 16:00:04 UTC] No categories found or error occurred.
+[25-Jun-2024 20:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Jun-2024 20:00:03 UTC] No categories found or error occurred.
+[26-Jun-2024 00:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Jun-2024 00:00:05 UTC] No categories found or error occurred.
+[26-Jun-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Jun-2024 04:00:04 UTC] No categories found or error occurred.
+[26-Jun-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Jun-2024 08:00:04 UTC] No categories found or error occurred.
+[26-Jun-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Jun-2024 12:00:04 UTC] No categories found or error occurred.
+[26-Jun-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Jun-2024 16:00:04 UTC] No categories found or error occurred.
+[26-Jun-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Jun-2024 20:00:04 UTC] No categories found or error occurred.
+[27-Jun-2024 00:00:08 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Jun-2024 00:00:08 UTC] No categories found or error occurred.
+[27-Jun-2024 04:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Jun-2024 04:00:03 UTC] No categories found or error occurred.
+[27-Jun-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Jun-2024 08:00:04 UTC] No categories found or error occurred.
+[27-Jun-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Jun-2024 12:00:04 UTC] No categories found or error occurred.
+[27-Jun-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Jun-2024 16:00:04 UTC] No categories found or error occurred.
+[27-Jun-2024 20:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Jun-2024 20:00:07 UTC] No categories found or error occurred.
+[28-Jun-2024 00:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[28-Jun-2024 00:00:05 UTC] No categories found or error occurred.
+[28-Jun-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[28-Jun-2024 04:00:04 UTC] No categories found or error occurred.
+[28-Jun-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[28-Jun-2024 08:00:04 UTC] No categories found or error occurred.
+[28-Jun-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[28-Jun-2024 12:00:04 UTC] No categories found or error occurred.
+[28-Jun-2024 16:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[28-Jun-2024 16:00:07 UTC] No categories found or error occurred.
+[28-Jun-2024 20:00:28 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[28-Jun-2024 20:00:28 UTC] No categories found or error occurred.
+[29-Jun-2024 00:00:31 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[29-Jun-2024 00:00:31 UTC] No categories found or error occurred.
+[29-Jun-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[29-Jun-2024 04:00:04 UTC] No categories found or error occurred.
+[29-Jun-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[29-Jun-2024 08:00:04 UTC] No categories found or error occurred.
+[29-Jun-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[29-Jun-2024 12:00:04 UTC] No categories found or error occurred.
+[29-Jun-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[29-Jun-2024 16:00:04 UTC] No categories found or error occurred.
+[29-Jun-2024 20:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[29-Jun-2024 20:00:03 UTC] No categories found or error occurred.
+[30-Jun-2024 00:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[30-Jun-2024 00:00:05 UTC] No categories found or error occurred.
+[30-Jun-2024 04:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[30-Jun-2024 04:00:03 UTC] No categories found or error occurred.
+[30-Jun-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[30-Jun-2024 08:00:04 UTC] No categories found or error occurred.
+[30-Jun-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[30-Jun-2024 12:00:04 UTC] No categories found or error occurred.
+[30-Jun-2024 16:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[30-Jun-2024 16:00:03 UTC] No categories found or error occurred.
+[30-Jun-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[30-Jun-2024 20:00:04 UTC] No categories found or error occurred.
+[01-Jul-2024 00:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[01-Jul-2024 00:00:05 UTC] No categories found or error occurred.
+[01-Jul-2024 04:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[01-Jul-2024 04:00:05 UTC] No categories found or error occurred.
+[01-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[01-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[01-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[01-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[01-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[01-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[01-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[01-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[02-Jul-2024 00:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[02-Jul-2024 00:00:05 UTC] No categories found or error occurred.
+[02-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[02-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[02-Jul-2024 08:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[02-Jul-2024 08:00:03 UTC] No categories found or error occurred.
+[02-Jul-2024 12:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[02-Jul-2024 12:00:05 UTC] No categories found or error occurred.
+[02-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[02-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[02-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[02-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[03-Jul-2024 00:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[03-Jul-2024 00:00:05 UTC] No categories found or error occurred.
+[03-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[03-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[03-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[03-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[03-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[03-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[03-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[03-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[03-Jul-2024 20:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[03-Jul-2024 20:00:05 UTC] No categories found or error occurred.
+[04-Jul-2024 00:00:27 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[04-Jul-2024 00:00:27 UTC] No categories found or error occurred.
+[04-Jul-2024 04:00:13 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[04-Jul-2024 04:00:14 UTC] No categories found or error occurred.
+[04-Jul-2024 08:00:15 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[04-Jul-2024 08:00:15 UTC] No categories found or error occurred.
+[04-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[04-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[04-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[04-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[04-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[04-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[05-Jul-2024 00:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[05-Jul-2024 00:00:05 UTC] No categories found or error occurred.
+[05-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[05-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[05-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[05-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[05-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[05-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[05-Jul-2024 16:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[05-Jul-2024 16:00:05 UTC] No categories found or error occurred.
+[05-Jul-2024 20:00:09 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[05-Jul-2024 20:00:09 UTC] No categories found or error occurred.
+[06-Jul-2024 00:00:31 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[06-Jul-2024 00:00:31 UTC] No categories found or error occurred.
+[06-Jul-2024 04:00:19 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[06-Jul-2024 04:00:19 UTC] No categories found or error occurred.
+[06-Jul-2024 08:00:21 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[06-Jul-2024 08:00:21 UTC] No categories found or error occurred.
+[06-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[06-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[06-Jul-2024 16:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[06-Jul-2024 16:00:03 UTC] No categories found or error occurred.
+[06-Jul-2024 20:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[06-Jul-2024 20:00:03 UTC] No categories found or error occurred.
+[07-Jul-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Jul-2024 00:00:06 UTC] No categories found or error occurred.
+[07-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[07-Jul-2024 08:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Jul-2024 08:00:03 UTC] No categories found or error occurred.
+[07-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[07-Jul-2024 16:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Jul-2024 16:00:03 UTC] No categories found or error occurred.
+[07-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[08-Jul-2024 00:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[08-Jul-2024 00:00:04 UTC] No categories found or error occurred.
+[08-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[08-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[08-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[08-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[08-Jul-2024 12:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[08-Jul-2024 12:00:03 UTC] No categories found or error occurred.
+[08-Jul-2024 16:00:15 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[08-Jul-2024 16:00:15 UTC] No categories found or error occurred.
+[08-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[08-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[09-Jul-2024 00:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[09-Jul-2024 00:00:05 UTC] No categories found or error occurred.
+[09-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[09-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[09-Jul-2024 08:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[09-Jul-2024 08:00:03 UTC] No categories found or error occurred.
+[09-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[09-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[09-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[09-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[09-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[09-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[10-Jul-2024 00:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[10-Jul-2024 00:00:05 UTC] No categories found or error occurred.
+[10-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[10-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[10-Jul-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[10-Jul-2024 08:00:05 UTC] No categories found or error occurred.
+[10-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[10-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[10-Jul-2024 16:00:10 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[10-Jul-2024 16:00:10 UTC] No categories found or error occurred.
+[10-Jul-2024 20:00:27 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[10-Jul-2024 20:00:27 UTC] No categories found or error occurred.
+[11-Jul-2024 00:00:17 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[11-Jul-2024 00:00:17 UTC] No categories found or error occurred.
+[11-Jul-2024 04:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[11-Jul-2024 04:00:05 UTC] No categories found or error occurred.
+[11-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[11-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[11-Jul-2024 12:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[11-Jul-2024 12:00:03 UTC] No categories found or error occurred.
+[11-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[11-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[11-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[11-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[12-Jul-2024 00:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[12-Jul-2024 00:00:07 UTC] No categories found or error occurred.
+[12-Jul-2024 04:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[12-Jul-2024 04:00:03 UTC] No categories found or error occurred.
+[12-Jul-2024 08:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[12-Jul-2024 08:00:03 UTC] No categories found or error occurred.
+[12-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[12-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[12-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[12-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[12-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[12-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[13-Jul-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[13-Jul-2024 00:00:06 UTC] No categories found or error occurred.
+[13-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[13-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[13-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[13-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[13-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[13-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[13-Jul-2024 16:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[13-Jul-2024 16:00:05 UTC] No categories found or error occurred.
+[13-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[13-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[14-Jul-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[14-Jul-2024 00:00:06 UTC] No categories found or error occurred.
+[14-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[14-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[14-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[14-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[14-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[14-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[14-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[14-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[14-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[14-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[15-Jul-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[15-Jul-2024 00:00:06 UTC] No categories found or error occurred.
+[15-Jul-2024 04:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[15-Jul-2024 04:00:05 UTC] No categories found or error occurred.
+[15-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[15-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[15-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[15-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[15-Jul-2024 16:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[15-Jul-2024 16:00:03 UTC] No categories found or error occurred.
+[15-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[15-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[16-Jul-2024 00:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[16-Jul-2024 00:00:05 UTC] No categories found or error occurred.
+[16-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[16-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[16-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[16-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[16-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[16-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[16-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[16-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[16-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[16-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[17-Jul-2024 00:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[17-Jul-2024 00:00:05 UTC] No categories found or error occurred.
+[17-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[17-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[17-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[17-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[17-Jul-2024 12:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[17-Jul-2024 12:00:05 UTC] No categories found or error occurred.
+[17-Jul-2024 16:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[17-Jul-2024 16:00:03 UTC] No categories found or error occurred.
+[17-Jul-2024 20:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[17-Jul-2024 20:00:03 UTC] No categories found or error occurred.
+[18-Jul-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[18-Jul-2024 00:00:06 UTC] No categories found or error occurred.
+[18-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[18-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[18-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[18-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[18-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[18-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[18-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[18-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[18-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[18-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[19-Jul-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[19-Jul-2024 00:00:06 UTC] No categories found or error occurred.
+[19-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[19-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[19-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[19-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[19-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[19-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[19-Jul-2024 16:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[19-Jul-2024 16:00:03 UTC] No categories found or error occurred.
+[19-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[19-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[20-Jul-2024 00:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[20-Jul-2024 00:00:07 UTC] No categories found or error occurred.
+[20-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[20-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[20-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[20-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[20-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[20-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[20-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[20-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[20-Jul-2024 20:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[20-Jul-2024 20:00:03 UTC] No categories found or error occurred.
+[21-Jul-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[21-Jul-2024 00:00:06 UTC] No categories found or error occurred.
+[21-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[21-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[21-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[21-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[21-Jul-2024 12:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[21-Jul-2024 12:00:06 UTC] No categories found or error occurred.
+[21-Jul-2024 16:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[21-Jul-2024 16:00:05 UTC] No categories found or error occurred.
+[21-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[21-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[22-Jul-2024 00:00:08 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Jul-2024 00:00:08 UTC] No categories found or error occurred.
+[22-Jul-2024 04:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Jul-2024 04:00:05 UTC] No categories found or error occurred.
+[22-Jul-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Jul-2024 08:00:05 UTC] No categories found or error occurred.
+[22-Jul-2024 12:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Jul-2024 12:00:06 UTC] No categories found or error occurred.
+[22-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[22-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[23-Jul-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Jul-2024 00:00:06 UTC] No categories found or error occurred.
+[23-Jul-2024 04:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Jul-2024 04:00:05 UTC] No categories found or error occurred.
+[23-Jul-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Jul-2024 08:00:05 UTC] No categories found or error occurred.
+[23-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[23-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[23-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[24-Jul-2024 00:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Jul-2024 00:00:04 UTC] No categories found or error occurred.
+[24-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[24-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[24-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[24-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[24-Jul-2024 20:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Jul-2024 20:00:03 UTC] No categories found or error occurred.
+[25-Jul-2024 00:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Jul-2024 00:00:05 UTC] No categories found or error occurred.
+[25-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[25-Jul-2024 12:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[25-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[25-Jul-2024 20:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Jul-2024 20:00:03 UTC] No categories found or error occurred.
+[26-Jul-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Jul-2024 00:00:06 UTC] No categories found or error occurred.
+[26-Jul-2024 04:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Jul-2024 04:00:03 UTC] No categories found or error occurred.
+[26-Jul-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Jul-2024 08:00:05 UTC] No categories found or error occurred.
+[26-Jul-2024 12:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Jul-2024 12:00:03 UTC] No categories found or error occurred.
+[26-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[26-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[27-Jul-2024 00:00:09 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Jul-2024 00:00:09 UTC] No categories found or error occurred.
+[27-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[27-Jul-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Jul-2024 08:00:05 UTC] No categories found or error occurred.
+[27-Jul-2024 12:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Jul-2024 12:00:03 UTC] No categories found or error occurred.
+[27-Jul-2024 16:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Jul-2024 16:00:03 UTC] No categories found or error occurred.
+[27-Jul-2024 20:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Jul-2024 20:00:05 UTC] No categories found or error occurred.
+[28-Jul-2024 00:00:08 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[28-Jul-2024 00:00:08 UTC] No categories found or error occurred.
+[28-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[28-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[28-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[28-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[28-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[28-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[28-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[28-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[28-Jul-2024 20:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[28-Jul-2024 20:00:03 UTC] No categories found or error occurred.
+[29-Jul-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[29-Jul-2024 00:00:06 UTC] No categories found or error occurred.
+[29-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[29-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[29-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[29-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[29-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[29-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[29-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[29-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[29-Jul-2024 20:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[29-Jul-2024 20:00:05 UTC] No categories found or error occurred.
+[30-Jul-2024 00:00:10 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[30-Jul-2024 00:00:10 UTC] No categories found or error occurred.
+[30-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[30-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[30-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[30-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[30-Jul-2024 12:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[30-Jul-2024 12:00:05 UTC] No categories found or error occurred.
+[30-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[30-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[30-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[30-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[31-Jul-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 00:00:06 UTC] No categories found or error occurred.
+[31-Jul-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 04:00:04 UTC] No categories found or error occurred.
+[31-Jul-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 08:00:04 UTC] No categories found or error occurred.
+[31-Jul-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 12:00:04 UTC] No categories found or error occurred.
+[31-Jul-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 16:00:04 UTC] No categories found or error occurred.
+[31-Jul-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[31-Jul-2024 20:00:04 UTC] No categories found or error occurred.
+[01-Aug-2024 00:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[01-Aug-2024 00:00:07 UTC] No categories found or error occurred.
+[01-Aug-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[01-Aug-2024 04:00:04 UTC] No categories found or error occurred.
+[01-Aug-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[01-Aug-2024 08:00:05 UTC] No categories found or error occurred.
+[01-Aug-2024 12:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[01-Aug-2024 12:00:05 UTC] No categories found or error occurred.
+[01-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[01-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[01-Aug-2024 20:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[01-Aug-2024 20:00:05 UTC] No categories found or error occurred.
+[02-Aug-2024 00:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[02-Aug-2024 00:00:07 UTC] No categories found or error occurred.
+[02-Aug-2024 04:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[02-Aug-2024 04:00:05 UTC] No categories found or error occurred.
+[02-Aug-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[02-Aug-2024 08:00:04 UTC] No categories found or error occurred.
+[02-Aug-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[02-Aug-2024 12:00:04 UTC] No categories found or error occurred.
+[02-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[02-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[02-Aug-2024 20:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[02-Aug-2024 20:00:05 UTC] No categories found or error occurred.
+[03-Aug-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[03-Aug-2024 00:00:06 UTC] No categories found or error occurred.
+[03-Aug-2024 04:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[03-Aug-2024 04:00:05 UTC] No categories found or error occurred.
+[03-Aug-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[03-Aug-2024 08:00:05 UTC] No categories found or error occurred.
+[03-Aug-2024 12:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[03-Aug-2024 12:00:05 UTC] No categories found or error occurred.
+[03-Aug-2024 16:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[03-Aug-2024 16:00:07 UTC] No categories found or error occurred.
+[03-Aug-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[03-Aug-2024 20:00:04 UTC] No categories found or error occurred.
+[04-Aug-2024 00:00:09 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[04-Aug-2024 00:00:09 UTC] No categories found or error occurred.
+[04-Aug-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[04-Aug-2024 04:00:04 UTC] No categories found or error occurred.
+[04-Aug-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[04-Aug-2024 08:00:04 UTC] No categories found or error occurred.
+[04-Aug-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[04-Aug-2024 12:00:04 UTC] No categories found or error occurred.
+[04-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[04-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[04-Aug-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[04-Aug-2024 20:00:04 UTC] No categories found or error occurred.
+[05-Aug-2024 00:00:08 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[05-Aug-2024 00:00:08 UTC] No categories found or error occurred.
+[05-Aug-2024 04:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[05-Aug-2024 04:00:06 UTC] No categories found or error occurred.
+[05-Aug-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[05-Aug-2024 08:00:04 UTC] No categories found or error occurred.
+[05-Aug-2024 12:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[05-Aug-2024 12:00:05 UTC] No categories found or error occurred.
+[05-Aug-2024 16:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[05-Aug-2024 16:00:05 UTC] No categories found or error occurred.
+[05-Aug-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[05-Aug-2024 20:00:04 UTC] No categories found or error occurred.
+[06-Aug-2024 00:00:09 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[06-Aug-2024 00:00:09 UTC] No categories found or error occurred.
+[06-Aug-2024 04:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[06-Aug-2024 04:00:06 UTC] No categories found or error occurred.
+[06-Aug-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[06-Aug-2024 08:00:05 UTC] No categories found or error occurred.
+[06-Aug-2024 12:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[06-Aug-2024 12:00:05 UTC] No categories found or error occurred.
+[06-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[06-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[06-Aug-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[06-Aug-2024 20:00:04 UTC] No categories found or error occurred.
+[07-Aug-2024 00:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Aug-2024 00:00:07 UTC] No categories found or error occurred.
+[07-Aug-2024 04:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Aug-2024 04:00:05 UTC] No categories found or error occurred.
+[07-Aug-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Aug-2024 08:00:05 UTC] No categories found or error occurred.
+[07-Aug-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Aug-2024 12:00:04 UTC] No categories found or error occurred.
+[07-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[07-Aug-2024 20:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Aug-2024 20:00:05 UTC] No categories found or error occurred.
+[08-Aug-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[08-Aug-2024 00:00:06 UTC] No categories found or error occurred.
+[08-Aug-2024 04:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[08-Aug-2024 04:00:05 UTC] No categories found or error occurred.
+[08-Aug-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[08-Aug-2024 08:00:05 UTC] No categories found or error occurred.
+[08-Aug-2024 12:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[08-Aug-2024 12:00:06 UTC] No categories found or error occurred.
+[08-Aug-2024 16:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[08-Aug-2024 16:00:05 UTC] No categories found or error occurred.
+[08-Aug-2024 20:00:21 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[08-Aug-2024 20:00:21 UTC] No categories found or error occurred.
+[09-Aug-2024 00:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[09-Aug-2024 00:00:07 UTC] No categories found or error occurred.
+[09-Aug-2024 04:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[09-Aug-2024 04:00:07 UTC] No categories found or error occurred.
+[09-Aug-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[09-Aug-2024 08:00:04 UTC] No categories found or error occurred.
+[09-Aug-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[09-Aug-2024 12:00:04 UTC] No categories found or error occurred.
+[09-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[09-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[09-Aug-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[09-Aug-2024 20:00:04 UTC] No categories found or error occurred.
+[10-Aug-2024 00:00:11 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[10-Aug-2024 00:00:11 UTC] No categories found or error occurred.
+[10-Aug-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[10-Aug-2024 04:00:04 UTC] No categories found or error occurred.
+[10-Aug-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[10-Aug-2024 08:00:04 UTC] No categories found or error occurred.
+[10-Aug-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[10-Aug-2024 12:00:04 UTC] No categories found or error occurred.
+[10-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[10-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[10-Aug-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[10-Aug-2024 20:00:04 UTC] No categories found or error occurred.
+[11-Aug-2024 00:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[11-Aug-2024 00:00:07 UTC] No categories found or error occurred.
+[11-Aug-2024 04:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[11-Aug-2024 04:00:03 UTC] No categories found or error occurred.
+[11-Aug-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[11-Aug-2024 08:00:04 UTC] No categories found or error occurred.
+[11-Aug-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[11-Aug-2024 12:00:04 UTC] No categories found or error occurred.
+[11-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[11-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[11-Aug-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[11-Aug-2024 20:00:04 UTC] No categories found or error occurred.
+[12-Aug-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[12-Aug-2024 00:00:06 UTC] No categories found or error occurred.
+[12-Aug-2024 04:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[12-Aug-2024 04:00:05 UTC] No categories found or error occurred.
+[12-Aug-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[12-Aug-2024 08:00:05 UTC] No categories found or error occurred.
+[12-Aug-2024 12:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[12-Aug-2024 12:00:06 UTC] No categories found or error occurred.
+[12-Aug-2024 16:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[12-Aug-2024 16:00:05 UTC] No categories found or error occurred.
+[12-Aug-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[12-Aug-2024 20:00:04 UTC] No categories found or error occurred.
+[13-Aug-2024 00:00:10 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[13-Aug-2024 00:00:10 UTC] No categories found or error occurred.
+[13-Aug-2024 04:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[13-Aug-2024 04:00:05 UTC] No categories found or error occurred.
+[13-Aug-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[13-Aug-2024 08:00:05 UTC] No categories found or error occurred.
+[13-Aug-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[13-Aug-2024 12:00:04 UTC] No categories found or error occurred.
+[13-Aug-2024 16:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[13-Aug-2024 16:00:06 UTC] No categories found or error occurred.
+[13-Aug-2024 20:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[13-Aug-2024 20:00:05 UTC] No categories found or error occurred.
+[14-Aug-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[14-Aug-2024 00:00:06 UTC] No categories found or error occurred.
+[14-Aug-2024 04:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[14-Aug-2024 04:00:06 UTC] No categories found or error occurred.
+[14-Aug-2024 08:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[14-Aug-2024 08:00:07 UTC] No categories found or error occurred.
+[14-Aug-2024 12:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[14-Aug-2024 12:00:05 UTC] No categories found or error occurred.
+[14-Aug-2024 16:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[14-Aug-2024 16:00:05 UTC] No categories found or error occurred.
+[14-Aug-2024 20:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[14-Aug-2024 20:00:06 UTC] No categories found or error occurred.
+[15-Aug-2024 00:00:09 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[15-Aug-2024 00:00:09 UTC] No categories found or error occurred.
+[15-Aug-2024 04:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[15-Aug-2024 04:00:06 UTC] No categories found or error occurred.
+[15-Aug-2024 08:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[15-Aug-2024 08:00:07 UTC] No categories found or error occurred.
+[15-Aug-2024 12:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[15-Aug-2024 12:00:05 UTC] No categories found or error occurred.
+[15-Aug-2024 16:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[15-Aug-2024 16:00:06 UTC] No categories found or error occurred.
+[15-Aug-2024 20:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[15-Aug-2024 20:00:05 UTC] No categories found or error occurred.
+[16-Aug-2024 00:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[16-Aug-2024 00:00:07 UTC] No categories found or error occurred.
+[16-Aug-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[16-Aug-2024 04:00:04 UTC] No categories found or error occurred.
+[16-Aug-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[16-Aug-2024 08:00:05 UTC] No categories found or error occurred.
+[16-Aug-2024 12:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[16-Aug-2024 12:00:06 UTC] No categories found or error occurred.
+[16-Aug-2024 16:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[16-Aug-2024 16:00:05 UTC] No categories found or error occurred.
+[16-Aug-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[16-Aug-2024 20:00:04 UTC] No categories found or error occurred.
+[17-Aug-2024 00:00:09 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[17-Aug-2024 00:00:09 UTC] No categories found or error occurred.
+[17-Aug-2024 04:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[17-Aug-2024 04:00:05 UTC] No categories found or error occurred.
+[17-Aug-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[17-Aug-2024 08:00:04 UTC] No categories found or error occurred.
+[17-Aug-2024 12:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[17-Aug-2024 12:00:05 UTC] No categories found or error occurred.
+[17-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[17-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[17-Aug-2024 20:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[17-Aug-2024 20:00:03 UTC] No categories found or error occurred.
+[18-Aug-2024 00:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[18-Aug-2024 00:00:07 UTC] No categories found or error occurred.
+[18-Aug-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[18-Aug-2024 04:00:04 UTC] No categories found or error occurred.
+[18-Aug-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[18-Aug-2024 08:00:04 UTC] No categories found or error occurred.
+[18-Aug-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[18-Aug-2024 12:00:04 UTC] No categories found or error occurred.
+[18-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[18-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[18-Aug-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[18-Aug-2024 20:00:04 UTC] No categories found or error occurred.
+[19-Aug-2024 00:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[19-Aug-2024 00:00:05 UTC] No categories found or error occurred.
+[19-Aug-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[19-Aug-2024 04:00:04 UTC] No categories found or error occurred.
+[19-Aug-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[19-Aug-2024 08:00:05 UTC] No categories found or error occurred.
+[19-Aug-2024 12:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[19-Aug-2024 12:00:05 UTC] No categories found or error occurred.
+[19-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[19-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[19-Aug-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[19-Aug-2024 20:00:04 UTC] No categories found or error occurred.
+[20-Aug-2024 00:00:13 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[20-Aug-2024 00:00:13 UTC] No categories found or error occurred.
+[20-Aug-2024 04:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[20-Aug-2024 04:00:05 UTC] No categories found or error occurred.
+[20-Aug-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[20-Aug-2024 08:00:05 UTC] No categories found or error occurred.
+[20-Aug-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[20-Aug-2024 12:00:04 UTC] No categories found or error occurred.
+[20-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[20-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[20-Aug-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[20-Aug-2024 20:00:04 UTC] No categories found or error occurred.
+[21-Aug-2024 00:00:10 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[21-Aug-2024 00:00:10 UTC] No categories found or error occurred.
+[21-Aug-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[21-Aug-2024 04:00:04 UTC] No categories found or error occurred.
+[21-Aug-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[21-Aug-2024 08:00:05 UTC] No categories found or error occurred.
+[21-Aug-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[21-Aug-2024 12:00:04 UTC] No categories found or error occurred.
+[21-Aug-2024 16:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[21-Aug-2024 16:00:05 UTC] No categories found or error occurred.
+[21-Aug-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[21-Aug-2024 20:00:04 UTC] No categories found or error occurred.
+[22-Aug-2024 00:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Aug-2024 00:00:07 UTC] No categories found or error occurred.
+[22-Aug-2024 04:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Aug-2024 04:00:05 UTC] No categories found or error occurred.
+[22-Aug-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Aug-2024 08:00:05 UTC] No categories found or error occurred.
+[22-Aug-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Aug-2024 12:00:04 UTC] No categories found or error occurred.
+[22-Aug-2024 16:00:03 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Aug-2024 16:00:03 UTC] No categories found or error occurred.
+[22-Aug-2024 20:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[22-Aug-2024 20:00:05 UTC] No categories found or error occurred.
+[23-Aug-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Aug-2024 00:00:06 UTC] No categories found or error occurred.
+[23-Aug-2024 04:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Aug-2024 04:00:05 UTC] No categories found or error occurred.
+[23-Aug-2024 08:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Aug-2024 08:00:05 UTC] No categories found or error occurred.
+[23-Aug-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Aug-2024 12:00:04 UTC] No categories found or error occurred.
+[23-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[23-Aug-2024 20:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[23-Aug-2024 20:00:05 UTC] No categories found or error occurred.
+[24-Aug-2024 00:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Aug-2024 00:00:06 UTC] No categories found or error occurred.
+[24-Aug-2024 04:00:15 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Aug-2024 04:00:15 UTC] No categories found or error occurred.
+[24-Aug-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Aug-2024 08:00:04 UTC] No categories found or error occurred.
+[24-Aug-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Aug-2024 12:00:04 UTC] No categories found or error occurred.
+[24-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[24-Aug-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[24-Aug-2024 20:00:04 UTC] No categories found or error occurred.
+[25-Aug-2024 00:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Aug-2024 00:00:07 UTC] No categories found or error occurred.
+[25-Aug-2024 04:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Aug-2024 04:00:06 UTC] No categories found or error occurred.
+[25-Aug-2024 08:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Aug-2024 08:00:07 UTC] No categories found or error occurred.
+[25-Aug-2024 12:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Aug-2024 12:00:05 UTC] No categories found or error occurred.
+[25-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[25-Aug-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[25-Aug-2024 20:00:04 UTC] No categories found or error occurred.
+[26-Aug-2024 00:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Aug-2024 00:00:07 UTC] No categories found or error occurred.
+[26-Aug-2024 04:00:05 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Aug-2024 04:00:05 UTC] No categories found or error occurred.
+[26-Aug-2024 08:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Aug-2024 08:00:07 UTC] No categories found or error occurred.
+[26-Aug-2024 12:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Aug-2024 12:00:06 UTC] No categories found or error occurred.
+[26-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[26-Aug-2024 20:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[26-Aug-2024 20:00:04 UTC] No categories found or error occurred.
+[27-Aug-2024 00:00:08 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Aug-2024 00:00:08 UTC] No categories found or error occurred.
+[27-Aug-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Aug-2024 04:00:04 UTC] No categories found or error occurred.
+[27-Aug-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Aug-2024 08:00:04 UTC] No categories found or error occurred.
+[27-Aug-2024 12:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Aug-2024 12:00:04 UTC] No categories found or error occurred.
+[27-Aug-2024 16:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Aug-2024 16:00:04 UTC] No categories found or error occurred.
+[27-Aug-2024 20:00:06 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[27-Aug-2024 20:00:06 UTC] No categories found or error occurred.
+[28-Aug-2024 00:00:07 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[28-Aug-2024 00:00:07 UTC] No categories found or error occurred.
+[28-Aug-2024 04:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[28-Aug-2024 04:00:04 UTC] No categories found or error occurred.
+[28-Aug-2024 08:00:04 UTC] WPJB Categories found: WP_Error Object
+(
+    [errors] => Array
+        (
+            [invalid_taxonomy] => Array
+                (
+                    [0] => Invalid taxonomy.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[28-Aug-2024 08:00:04 UTC] No categories found or error occurred.
