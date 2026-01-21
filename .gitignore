@@ -3,3 +3,7 @@
 /wp-content/uploads
 /wp-content/cache
 /wp-admin
+
+wp-content/ai1wm-backups/
+*.wpresswp-content/ai1wm-backups/
+*.wpress
